@@ -1,0 +1,14 @@
+# Standard Git exclusions
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+.vscode/
+.idea/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+env/
+.env
