@@ -92,7 +92,11 @@
 
 ---
 
-## 📄 ライセンス
+## 📄 License / ライセンス
 
-本プロジェクトは [MIT License](LICENSE) の下で公開されています。  
+- **Code**（HTML / CSS / JavaScript）: [MIT License](LICENSE)
+- **Content**（文章・図表・分析結果・整理済みデータ）: [CC BY 4.0](LICENSE-CONTENT.md)
+- 出典表示例 / Attribution: Naohisa Hashimoto, "crypto-utility-trajectory", https://naohisastry.github.io/crypto-utility-trajectory/
+- 第三者の元データの権利は各発行元に帰属します。 / Third-party source data remain the property of their original publishers.
+
 © 2026 Naohisa Hashimoto
